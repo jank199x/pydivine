@@ -1,7 +1,7 @@
 [project]
 name = "pydivine"
 version = "0.1.0"
-description = "Add your description here"
+description = "LLM-based CLI divination app with tarot and runes support"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
